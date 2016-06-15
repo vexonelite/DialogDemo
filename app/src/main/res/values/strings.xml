@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ItemClaimDev</string>
+
+    <string name="empty_string"/>
+
+    <!-- Dialog message -->
+    <string name="reset_pwd_title">重置密碼</string>
+    <string name="hint_please_input_your_email">請輸入電子郵件</string>
+    <string name="hint_comments">回覆</string>
+
+    <!-- Home page -->
+    <string name="hint_to_quit_app">再按一次返回鍵離開 APP</string>
+
+    <string name="submit">送出</string>
+    <string name="cancel">取消</string>
+
+</resources>

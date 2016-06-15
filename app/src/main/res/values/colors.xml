@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="mainText">#313131</color>
+    <color name="descriptionText">#747474</color>
+    <color name="hintText">#BFBFBF</color>
+
+    <color name="transparent">#00ffffff</color>
+
+    <!-- Progress Dialog -->
+    <!-- Background color of Progress Dialog -->
+    <color name="ProgressDialogBackground">#333333</color>
+    <!-- Text color of title for the Progress Dialog -->
+    <color name="ProgressDialogText">#FFFFFF</color>
+
+    <!-- Border color for UI widget, e.g., Button or EditText -->
+    <color name="WidgetBorder">#BFBFBF</color>
+
+    <color name="gray_ninety_four">#f0f0f0</color>
+    <color name="gray_eighty">#cccccc</color>
+    <color name="gray_sixty">#999999</color>
+    <color name="gray_forty">#666666</color>
+    <color name="gray_twenty_seven">#454545</color>
+    <color name="gray_twenty_two">#383838</color>
+    <color name="gray_twenty">#333333</color>
+
+    <color name="gray_001">#efefef</color>
+    <color name="gray_002">#eeeeee</color>
+    <color name="gray_003">#eaeaea</color>
+    <color name="gray_004">#dddddd</color>
+    <color name="gray_005">#cecece</color>
+    <color name="gray_006">#cbcbcb</color>
+    <color name="gray_007">#bbbbbb</color>
+    <color name="gray_008">#aaaaaa</color>
+    <color name="gray_009">#a9a9a9</color>
+    <color name="gray_010">#a2a2a2</color>
+    <color name="gray_011">#888888</color>
+    <color name="gray_012">#848484</color>
+    <color name="gray_013">#535353</color>
+    <color name="gray_014">#222222</color>
+
+    <color name="blue">#0000ff</color>
+    <color name="more_light_blue">#cce0f4</color>
+    <color name="light_blue_one">#33b5e6</color>
+    <color name="middle_blue">#369de1</color>
+    <color name="deep_blue">#3b6ccd</color>
+    <color name="thick_blue">#0066b0</color>
+
+</resources>
